@@ -10,3 +10,5 @@
 <a class="excld" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><i class="fab fa-discord fa-2x"></i></a>
 <a class="excld" style="text-decoration:none;" href="https://www.youtube.com/channel/UC__4bFaSJ2_U92V6f7ypDyw" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
 <a class="excld" style="text-decoration:none;" href="https://github.com/leocabbage2008" target="_blank"><i class="fab fa-github fa-2x"></i></a>
+
+VISITOR COUNT:![visitors](https://visitor-badge.laobi.icu/badge?page_id=leocabbage2008.visitor-badge)
