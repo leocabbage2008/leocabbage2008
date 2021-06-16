@@ -14,5 +14,5 @@ VISITOR COUNT:
   <summary>achievments</summary>
   basically 100 wpm
   <img src="https://i.ibb.co/ThNcBK6/100.png" />
-  <im src="https://i.ibb.co/48pYRZP/100.png" />
+  <img src="https://i.ibb.co/48pYRZP/100.png" />
 </details>
