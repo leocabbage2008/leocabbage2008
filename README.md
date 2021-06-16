@@ -6,9 +6,13 @@
 - 📫 How to reach me: long arms first of all
 - 😄 Pronouns: imma cat
 - ⚡ Fun fact: I can pop the cap off a bottle?
+- [![discord_ico](https://emoji.gg/assets/emoji/9738-discord-ico.png)](https://emoji.gg/emoji/9738-discord-ico) Discord: `cabbageman#7693`
 
-<a class="excld" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><i class="fab fa-discord fa-2x"></i></a>
-<a class="excld" style="text-decoration:none;" href="https://www.youtube.com/channel/UC__4bFaSJ2_U92V6f7ypDyw" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
-<a class="excld" style="text-decoration:none;" href="https://github.com/leocabbage2008" target="_blank"><i class="fab fa-github fa-2x"></i></a>
-
-VISITOR COUNT:![visitors](https://visitor-badge.laobi.icu/badge?page_id=leocabbage2008.visitor-badge)
+VISITOR COUNT:
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=leocabbage2008.visitor-badge)
+<details>
+  <summary>achievments</summary>
+  basically 100 wpm
+  <img src="https://i.ibb.co/ThNcBK6/100.png" />
+  <im src="https://i.ibb.co/48pYRZP/100.png" />
+</details>
