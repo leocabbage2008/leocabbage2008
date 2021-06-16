@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm currently a cat
-<img src="https://i.ibb.co/XLNDhnX/image0.jpg" />
+<img src="https://i.ibb.co/XLNDhnX/image0.jpg" style="height:20%"/>
 
 - 🔭 I’m currently working on my website..
 - 🌱 I’m currently learning css!
