@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm currently a cat
-![Wallpaper](i.ibb.co/XLNDhnX/image0.jpg)
+![Wallpaper](cat.jpg)
 - 🔭 I’m currently working on my website..
 - 🌱 I’m currently learning css!
 - 💬 Ask me about how to be a failure like I am!
