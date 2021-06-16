@@ -6,7 +6,7 @@
 - 📫 How to reach me: long arms first of all
 - 😄 Pronouns: imma cat
 - ⚡ Fun fact: I can pop the cap off a bottle?
-- [![discord_ico](https://emoji.gg/assets/emoji/9738-discord-ico.png)](https://emoji.gg/emoji/9738-discord-ico) Discord: `cabbageman#7693`
+- <img src="https://emoji.gg/assets/emoji/9738-discord-ico.png)](https://emoji.gg/emoji/9738-discord-ico)" /> Discord: `cabbageman#7693`
 
 VISITOR COUNT:
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leocabbage2008.visitor-badge)
