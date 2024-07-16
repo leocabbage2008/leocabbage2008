@@ -1,3 +1,5 @@
+### do not mind this 
+<details>
 ### Hi there 👋 I'm currently a cat
 ![Wallpaper](cat.jpg)
 - 🔭 I’m currently working on my website..
@@ -14,3 +16,7 @@ VISITOR COUNT:
   <summary>achievments</summary>
   
 </details>
+  
+</details>
+
+
