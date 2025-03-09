@@ -8,8 +8,11 @@
   </head>
   <body>
     <div id="main">
-      <img src="https://i.imgur.com/t2dyOf0.gif" />
-      <button onclick="history.back()" style="width: 36px; height: 36px">
+      <img src="media/leoling.gif" />
+      <button
+        onclick="window.location=window.location.href.split('/').map(x=>x.endsWith('.html')?'index.html':x).join('/')"
+        style="width: 36px; height: 36px"
+      >
         🔙
       </button>
       <a href="quickwrite.txt">quickwrite</a>

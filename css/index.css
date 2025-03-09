@@ -1,4 +1,3 @@
-@import url('https://fontcity.neocities.org/colortubepro.css?family=colortube+pro');
 html {
   height: 100%;
 }
@@ -14,7 +13,7 @@ body {
   background-image: url('../media/chains.png');
   background-repeat: no-repeat;
   background-size: 100vw 100vh;
-  cursor: url('http://www.rw-designer.com/cursor-view/55125.png') 12 12, auto;
+  cursor: url('../media/dot.png') 12 12, auto;
 }
 #main {
   height: 100%;
@@ -30,9 +29,7 @@ p {
   color: white;
 }
 #main p {
-  font-size: 16px;
-  font-weight: 100;
-  font-family: 'colortube pro';
+  font-size: 24px;
 }
 #main a {
   text-decoration: none;
@@ -41,7 +38,7 @@ p {
 }
 #main a:hover {
   color: rgb(248, 103, 30);
-  cursor: url('http://www.rw-designer.com/cursor-view/55126.png') 24 24, auto;
+  cursor: url('../media/?.png') 24 24, auto;
 }
 @keyframes glow {
   from {
